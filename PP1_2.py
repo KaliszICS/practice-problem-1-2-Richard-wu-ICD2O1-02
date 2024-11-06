@@ -26,16 +26,16 @@ def q3():
 
 def q4():
   #Write Assignment code here
-   sixPointThree = 6.3
+    sixPointThree = 6.3
     threePointO = 3.0
     print(sixPointThree/threePointO)
 
 def q5():
   #Write Assignment code here
  hiworld = "Hello World"
-    print(hiworld)
-    hiworld = "Goodbye World"
-    print(hiworld)
+ print(hiworld)
+ hiworld = "Goodbye World"
+ print(hiworld)
 
 def q6():
   #Write Assignment code here
@@ -47,14 +47,12 @@ def q7():
     eight = 8
     three = 3
     print(eight%three)
-    
 
-  
-#DO NOT EDIT ANYTHING AFTER THIS COMMENT
+
 q1()
 q2()
 q3()
 q4()
 q5()
 q6()
-q7()
+q7() 
