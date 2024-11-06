@@ -47,12 +47,3 @@ def q7():
     eight = 8
     three = 3
     print(eight%three)
-
-
-q1()
-q2()
-q3()
-q4()
-q5()
-q6()
-q7() 
